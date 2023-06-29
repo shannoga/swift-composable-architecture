@@ -20,7 +20,7 @@ let package = Package(
     .package(url: "https://github.com/apple/swift-docc-plugin", exact: "1.0.0"),
     .package(url: "https://github.com/google/swift-benchmark", exact: "0.1.0"),
     .package(url: "https://github.com/pointfreeco/combine-schedulers", exact: "0.8.0"),
-    .package(url: "https://github.com/pointfreeco/swift-case-paths", exact: "0.10.0"),
+    .package(url: "https://github.com/pointfreeco/swift-case-paths", from: "0.10.0"),
     .package(url: "https://github.com/apple/swift-collections", exact: "1.0.2"),
     .package(url: "https://github.com/pointfreeco/swift-custom-dump", exact: "0.7.0"),
     .package(url: "https://github.com/pointfreeco/swift-dependencies", from: "0.1.4"),

@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/combine-schedulers",
       "state" : {
-        "revision" : "882ac01eb7ef9e36d4467eb4b1151e74fcef85ab",
-        "version" : "0.9.1"
+        "revision" : "aa3e575929f2bcc5bad012bd2575eae716cbcdf7",
+        "version" : "0.8.0"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-argument-parser",
       "state" : {
-        "revision" : "fee6933f37fde9a5e12a1e4aeaa93fe60116ff2a",
-        "version" : "1.2.2"
+        "revision" : "6b2aa2748a7881eebb9f84fb10c01293e15b52ca",
+        "version" : "0.5.0"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/google/swift-benchmark",
       "state" : {
-        "revision" : "8163295f6fe82356b0bcf8e1ab991645de17d096",
-        "version" : "0.1.2"
+        "revision" : "8e0ef8bb7482ab97dcd2cd1d6855bd38921c345d",
+        "version" : "0.1.0"
       }
     },
     {
@@ -50,8 +50,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-collections",
       "state" : {
-        "revision" : "937e904258d22af6e447a0b72c0bc67583ef64a2",
-        "version" : "1.0.4"
+        "revision" : "48254824bb4248676bf7ce56014ff57b142b77eb",
+        "version" : "1.0.2"
       }
     },
     {
@@ -59,8 +59,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swift-custom-dump",
       "state" : {
-        "revision" : "dd86159e25c749873f144577e5d18309bf57534f",
-        "version" : "0.8.0"
+        "revision" : "87dd388a193569b288d03cb4060db54f90d1a66f",
+        "version" : "0.7.0"
       }
     },
     {
@@ -95,8 +95,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swiftui-navigation",
       "state" : {
-        "revision" : "270a754308f5440be52fc295242eb7031638bd15",
-        "version" : "0.6.1"
+        "revision" : "bf0fb9d53019cbde1a1e0cf290b560a0a0411282",
+        "version" : "0.6.0"
       }
     },
     {
