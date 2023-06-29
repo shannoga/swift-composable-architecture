@@ -23,7 +23,7 @@ let package = Package(
     .package(url: "https://github.com/pointfreeco/swift-case-paths", exact: "0.10.0"),
     .package(url: "https://github.com/apple/swift-collections", exact: "1.0.2"),
     .package(url: "https://github.com/pointfreeco/swift-custom-dump", exact: "0.7.0"),
-    .package(url: "https://github.com/pointfreeco/swift-dependencies", exact: "0.1.2"),
+    .package(url: "https://github.com/pointfreeco/swift-dependencies", from: "0.1.4"),
     .package(url: "https://github.com/pointfreeco/swift-identified-collections", exact: "0.7.0"),
     .package(url: "https://github.com/pointfreeco/swiftui-navigation", exact: "0.6.0"),
     .package(url: "https://github.com/pointfreeco/xctest-dynamic-overlay", exact: "0.5.0"),
